@@ -1,0 +1,27 @@
+{
+  "name": "admin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@alicloud/sms-sdk": "^1.1.6",
+    "axios": "^0.24.0",
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.5",
+    "dayjs": "^1.10.7",
+    "express": "^4.17.1",
+    "express-session": "^1.16.2",
+    "iconv-lite": "^0.6.3",
+    "md5": "^2.3.0",
+    "mime-types": "^2.1.34",
+    "mysql": "^2.18.1",
+    "node-blob": "0.0.2",
+    "node-xlsx": "^0.17.2",
+    "qs": "^6.8.0",
+    "svg-captcha": "^1.4.0"
+  }
+}
